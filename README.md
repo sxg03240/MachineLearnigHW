@@ -16,6 +16,5 @@ A short video is provided which gives brief overall explanation of the work done
 Outputs:
 Output screenshots are uploaded in the github under MachineLearnigHw repo
 
-SVideo Link:
+Video Link:
 https://vimeo.com/762466325/2e2a3e8890
-S
