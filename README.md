@@ -20,4 +20,3 @@ Output screenshots are uploaded in the github under MachineLearnigHw repo
 
 Video Link:
 https://vimeo.com/762466325/2e2a3e8890
-Github Link:
