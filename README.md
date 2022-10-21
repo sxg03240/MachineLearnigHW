@@ -14,9 +14,8 @@ A short video is provided which gives brief overall explanation of the work done
 
 # In-Class Programming Assignment-2
 Outputs:
-
 Output screenshots are uploaded in the github under MachineLearnigHw repo
 
-
-Video Link:
+SVideo Link:
 https://vimeo.com/762466325/2e2a3e8890
+S
